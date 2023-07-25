@@ -1,2 +1,3 @@
 Hello, you are working on how to add commits to a repository.
 A recent change.
+committing these changes
